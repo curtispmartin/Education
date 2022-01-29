@@ -12,16 +12,20 @@ We also talk about setting up your data science environment. In this course, we'
 
 In preparation for next lecture, go ahead & setup your GitHub account & install Git Bash if needed: 
 - [GitHub](https://github.com/)
-- [Git Bash](https://gitforwindows.org/) for those on windows
+- [Git Bash](https://gitforwindows.org/) for those on Windows
+- ...for those on Mac?
 
 
-### `Lesson 2: Version Control`
+### [`Lesson 2: Version Control`](https://github.com/curtispmartin/Courses/tree/master/Working/2_VersionControl)
 Here, we introduce version control as a best practice when writing & developing your code. 
 We talk about standard problems in data science when it comes to reproducibility & where version control fits in. 
 We illustrate how Git & GitHub help solve these problems. 
 We discuss best practices in using Git & GitHub. 
-We end by covering coding in a = collaborative setting.
+We end by covering coding in a collaborative setting.
 
 
 ### `Lesson 3: Code Interpretability`
 Here, we discuss best practices when it comes to writing interpretable code. 
+
+
+### `Lesson 4: Introduction to Python -- Part 1`
