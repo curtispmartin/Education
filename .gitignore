@@ -1,6 +1,16 @@
+**/*.docx
+**/*.gif
+**/*.jpg
+**/*.png
+**/*.xls
+**/*.xlsb
+**/*.xlsx
+
 __pycache__/*
 Admin/*
 Archive/*
+Output/*
 Resources/*
+
 **/Figures/
 **/Internal/
