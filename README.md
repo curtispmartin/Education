@@ -4,6 +4,8 @@ Packages together materials I've put together for various data science curriculu
 ## Working
 Contains materials for "Data Science in Chemical Engineering - v2", currently being developed. 
 Written fully in Python, except where applicable. 
+Materials for introduction to Python separated out for flexibility in course requirements. 
+
 
 ### `Lesson 1: Introduction to Data Science`
 Here, we provide a broad overview of the content covered in data science, as well as what will be tackled in this course. 
@@ -28,4 +30,19 @@ We end by covering coding in a collaborative setting.
 Here, we discuss best practices when it comes to writing interpretable code. 
 
 
-### `Lesson 4: Introduction to Python -- Part 1`
+### `Lesson 4: Data Science in Python`
+In this lesson, we introduce 
+
+Requires working understanding of Python. 
+See Python Module for crash course which can be incorporated into the curriculum.
+
+
+## Modules
+Here we provide modules for education which can supplement the course but either isn't required or is already a pre-requisite.
+
+Modules in development:
+### Python (Module "P") 
+This module will provide a crash course in programming w/ Python from the ground up. 
+
+### SQL (Module "S")
+This module will provide a crash course in databases & using SQL for relational database management. 
