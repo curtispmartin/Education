@@ -9,7 +9,7 @@ This lesson requires the following to be installed:
 - [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
 - Jupyter. Once Miniconda is installed, use `conda install jupyter` in Anaconda Powershell & follow/accept all instructions & prompts. 
 
-Within this repo are:
+## Contents
 - The lecture itself ("2_VersionControl.pdf")
 - An in-class activity ("Assignments/inclass.ipynb")
 - A homework assignment ("Assignments/hw1.ipynb")
