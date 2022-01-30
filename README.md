@@ -1,10 +1,12 @@
-# Courses
-Packages together materials I've put together for various data science curriculums over the years.
+# Education
+Repo which houses all materials developed & used for education purposes. 
+
 
 ## Working
-Contains materials for "Data Science in Chemical Engineering - v2", currently being developed. 
+Contains materials currently in development for improved "Data Science in Chemical Engineering" course.
 Written fully in Python, except where applicable. 
-Materials for introduction to Python separated out for flexibility in course requirements. 
+Core materials will be contained w/i numbered lectures. 
+Supplementary materials will be contained w/i "modules", which allow for inclusion/exclusion into course as appropriate (e.g., Python). 
 
 
 ### `Lesson 1: Introduction to Data Science`
