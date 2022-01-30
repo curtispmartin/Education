@@ -20,7 +20,7 @@ In preparation for next lecture, go ahead & setup your GitHub account & install 
 - ...for those on Mac?
 
 
-### [`Lesson 2: Version Control`](https://github.com/curtispmartin/Courses/tree/master/Working/2_VersionControl)
+### [`Lesson 2: Version Control`](https://github.com/curtispmartin/Education/tree/master/Working/2_VersionControl)
 Here, we introduce version control as a best practice when writing & developing your code. 
 We talk about standard problems in data science when it comes to reproducibility & where version control fits in. 
 We illustrate how Git & GitHub help solve these problems. 
