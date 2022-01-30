@@ -10,6 +10,6 @@ This lesson requires the following to be installed:
 - Jupyter. Once Miniconda is installed, use `conda install jupyter` in Anaconda Powershell & follow/accept all instructions & prompts. 
 
 Within this repo are:
-- "2_VersionControl.pdf" (the lecture itself)
-- "Assignments/inclass.ipynb" (the in-class activity)
-- "Assignments/hw1.ipynb" (the homework assignment)
+- The lecture itself ("2_VersionControl.pdf")
+- An in-class activity ("Assignments/inclass.ipynb")
+- A homework assignment ("Assignments/hw1.ipynb")
