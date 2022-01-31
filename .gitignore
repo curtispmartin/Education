@@ -1,6 +1,6 @@
 **/*.docx
 **/*.gif
-**/*.ipynb
+**/*.html
 **/*.jpg
 **/*.png
 **/*.pptx
@@ -9,7 +9,6 @@
 **/*.xlsx
 
 __pycache__/*
-.ipynb_checkpoints/*
 Admin/*
 Archive/*
 Output/*
@@ -17,3 +16,4 @@ Resources/*
 
 **/Figures/
 **/Internal/
+**/.ipynb_checkpoints/

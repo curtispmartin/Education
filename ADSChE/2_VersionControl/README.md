@@ -11,5 +11,5 @@ This lesson requires the following to be installed:
 
 ## Contents
 - The lecture itself ("2_VersionControl.pdf")
-- An in-class activity ("Assignments/inclass.ipynb")
-- A homework assignment ("Assignments/hw1.ipynb")
+- An in-class activity ("Assignments/inclass.html")
+- A homework assignment ("Assignments/homework.html")
