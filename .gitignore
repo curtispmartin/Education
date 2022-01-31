@@ -1,5 +1,6 @@
 **/*.docx
 **/*.gif
+**/*.ipynb
 **/*.jpg
 **/*.png
 **/*.pptx
