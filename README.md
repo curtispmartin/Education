@@ -48,8 +48,8 @@ See Python Module for crash course which can be incorporated into the curriculum
 Here we provide modules for education which can supplement the course but either isn't required or is already a pre-requisite.
 
 Modules in development:
-### [Python (Module "P")](https://github.com/curtispmartin/Courses/tree/master/Working/Modules/Python)
+### [Python Module](https://github.com/curtispmartin/Courses/tree/master/Working/Modules/Python)
 This module will provide a crash course in programming w/ Python from the ground up. 
 
-### [SQL (Module "S")](https://github.com/curtispmartin/Courses/tree/master/Working/Modules/SQL)
+### [SQL Module](https://github.com/curtispmartin/Courses/tree/master/Working/Modules/SQL)
 This module will provide a crash course in databases & using SQL for relational database management. 
