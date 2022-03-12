@@ -37,7 +37,6 @@ We talk about standard problems in data science when it comes to reproducibility
 We illustruate how Git & GitHub help solve these problems. 
 We discuss best practices in using Git & GitHub. 
 We end by covering coding in a collaborative setting. 
-
 -----
 
 
