@@ -3,10 +3,12 @@ New & improved course in applied data science for chemical engineers.
 Written fully in Python, except where applicable. 
 Supplementary materials will be contained w/i "modules", which allow for inclusion/exclusion into course as appropriate.
 
-Course will be broken into three sections:
-- Heart: Knowledge which is required to apply data science at any level. 
-- Mind: Concepts which are more intellectually challenging.
-- Body: Ideas which aren't strictly necessary but which make data science simpler & more effective. 
+Breaking the course into distinct modules which can be mixed & matched as desired. 
+In general, will divide into four sections: 
+- `Heart:` Requirements (i.e. skills & ideas without which we could not do data science). 
+- `Mind:` Theory (i.e. concepts which make up the bulk of what we tend to think of as data science).
+- `Body:` Enablers (i.e. things which aren't quite required, but enable modern data science).  
+- `Soul:` Applications (i.e. the reasons why data science is so important & useful).
 
 Course is still in development. 
 
@@ -22,7 +24,7 @@ In preparation for next lecture, go ahead & setup your GitHub account & install 
 - ...for those on Mac?
 
 
-### [`Lesson 2: Version Control`](https://github.com/curtispmartin/Education/tree/master/ADSChE/2_VersionControl)
+### [`Lesson 2: Version Control`](https://github.com/curtispmartin/Education/tree/master/ADSChE/Body/VersionControl)
 Here, we introduce version control as a best practice when writing & developing your code. 
 We talk about standard problems in data science when it comes to reproducibility & where version control fits in. 
 We illustrate how Git & GitHub help solve these problems. 
