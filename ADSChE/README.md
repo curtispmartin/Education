@@ -34,6 +34,11 @@ We end by covering coding in a collaborative setting.
 Content in this section will cover `enablers` (i.e. things which aren't quite required, but enable modern data science).
 
 ### [`Lesson: Version Control`](https://github.com/curtispmartin/Education/tree/master/ADSChE/Body/VersionControl)
+Here, we introduce version control as a best practice when writing & developing your code. 
+We talk about standard problems in data science when it comes to reproducibility & where version control fits in.
+We illistruate how Git & GitHub help solve these problems. 
+We discuss best practices in using Git & GitHub. 
+We end by covering coding in a collaborative setting. 
 -----
 
 ## `Soul` 
