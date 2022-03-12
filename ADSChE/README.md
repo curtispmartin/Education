@@ -19,6 +19,7 @@ In preparation for next lecture, go ahead & setup your GitHub account & install 
 - [GitHub](https://github.com/)
 - [Git Bash](https://gitforwindows.org/) for those on Windows
 - ...for those on Mac?
+
 -----
 
 
@@ -37,6 +38,7 @@ We talk about standard problems in data science when it comes to reproducibility
 We illustruate how Git & GitHub help solve these problems. 
 We discuss best practices in using Git & GitHub. 
 We end by covering coding in a collaborative setting. 
+
 -----
 
 
