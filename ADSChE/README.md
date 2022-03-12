@@ -34,9 +34,8 @@ Content in this section will cover `enablers` (i.e. things which aren't quite re
 ### [`Lesson: Version Control`](https://github.com/curtispmartin/Education/tree/master/ADSChE/Body/VersionControl)
 Here, we introduce version control as a best practice when writing & developing your code. 
 We talk about standard problems in data science when it comes to reproducibility & where version control fits in.
-Supplementary materials will be contained w/i "modules", which allow for inclusion/exclusion into course as appropriate.
-
 We illustruate how Git & GitHub help solve these problems. 
+
 We discuss best practices in using Git & GitHub. 
 We end by covering coding in a collaborative setting. 
 -----
