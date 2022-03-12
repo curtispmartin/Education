@@ -33,8 +33,9 @@ Materials in this section will cover `theory` (i.e. concepts which make up the b
 Content in this section will cover `enablers` (i.e. things which aren't quite required, but enable modern data science).
 
 ### [`Lesson: Reproducibility`](https://github.com/curtispmartin/Education/tree/master/ADSChE/Body/Reproducibility)
+Here, we discuss best practices when it comes to **doing data science in a reproducible manner.** 
 Here, we will introduce the following concepts in reproducibility: 
-- [`Version Control`](https://github.com/curtispmartin/Education/tree/master/ADSChE/Body/VersionControl)
+- [`Lecture 1: Version Control`](https://github.com/curtispmartin/Education/tree/master/ADSChE/Body/Reproducibility/VersionControl)
 - ??? 
 
 -----
@@ -47,10 +48,6 @@ Lessons in this section will cover `applications` (i.e. the reasons why data sci
 
 Course is still in development. 
 
-
-
-### `Lesson: Reproducibility`
-Here, we discuss best practices when it comes to writing interpretable code. 
 
 
 ### `Lesson: Data Science in Python`
