@@ -10,6 +10,6 @@ This lesson requires the following to be installed:
 - Jupyter. Once Miniconda is installed, use `conda install jupyter` in Anaconda Powershell & follow/accept all instructions & prompts. 
 
 ## Contents
-- The lecture [can be accessed & downloaded here](https://1drv.ms/b/s!AgxFCJc78BuchY9RQM84JQyifEAo6Q?e=8J5Wla){:target="_blank"}
+- The lecture [can be accessed & downloaded here](https://1drv.ms/b/s!AgxFCJc78BuchY9RQM84JQyifEAo6Q?e=8J5Wla)
 - An in-class activity ("Assignments/inclass.html")
 - A homework assignment ("Assignments/homework.html")
