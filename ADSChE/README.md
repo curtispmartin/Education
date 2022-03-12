@@ -29,6 +29,7 @@ Materials in this section will cover `theory` (i.e. concepts which make up the b
 Content in this section will cover `enablers` (i.e. things which aren't quite required, but enable modern data science).
 
 ### [`Lesson: Version Control`](https://github.com/curtispmartin/Education/tree/master/ADSChE/Body/VersionControl)
+
 Here, we introduce version control as a best practice when writing & developing your code. 
 We talk about standard problems in data science when it comes to reproducibility & where version control fits in. 
 We illustrate how Git & GitHub help solve these problems. 
@@ -39,6 +40,7 @@ We end by covering coding in a collaborative setting.
 ## `Soul` 
 Lessons in this section will cover `applications` (i.e. the reasons why data science is so important & useful).
 
+-----
 
 Course is still in development. 
 
