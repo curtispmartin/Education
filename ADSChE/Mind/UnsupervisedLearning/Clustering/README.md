@@ -8,4 +8,4 @@ This lecture requires the following Python packages to be installed:
 - [scikit-learn](https://scikit-learn.org/stable/index.html)
 
 ## Contents
-- The lecture [can be accessed & downloaded here](https://1drv.ms/u/s!AgxFCJc78BuchY9QjAUBGD1RAZ3cDw?e=fV22RY)
+- The lecture [can be accessed & downloaded here](https://1drv.ms/b/s!AgxFCJc78BuchY9Tl2kszwW-q4SRDw?e=8YygNo)
