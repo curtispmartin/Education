@@ -21,12 +21,12 @@ We also talk about setting up your data science environment. In this course, we'
 ## `Mind` 
 Materials in this section will cover `theory` (i.e. concepts which make up the bulk of what we tend to think of as data science).
 
-### `Lesson: Unsupervised Machine Learning`
+### [`Lesson: Unsupervised Machine Learning`](https://github.com/curtispmartin/Education/tree/master/ADSChE/Mind/UnsupervisedLearning)
 Here, we cover the ins & outs of unsupervised machine learning. 
 In particular, we will discuss the following:
 - `Lecture 1: Overview & Applications`
 - `Lecture 2: Dimensionality Reduction`
-- `Lecture 3: Unsupervised Learning`
+- [`Lecture 3: Unsupervised Learning`](https://github.com/curtispmartin/Education/tree/master/ADSChE/Mind/UnsupervisedLearning/3_Clustering)
 
 -----
 
