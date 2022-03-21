@@ -8,6 +8,11 @@ We end by covering coding in a collaborative setting.
 This lecture requires the following to be installed:
 - [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
 - Jupyter. Once Miniconda is installed, use `conda install jupyter` in Anaconda Powershell & follow/accept all instructions & prompts. 
+- [Git Bash](https://gitforwindows.org/) for those on Windows...for those on Mac? Git Bash isn't strictly required, as the Anaconda Powershell can be used instead.
+
+This lecture requires you to set up a GitHub account:
+- [GitHub](https://github.com/)
+
 
 ## Contents
 - The lecture [can be accessed & downloaded here](https://1drv.ms/b/s!AgxFCJc78BuchY9RQM84JQyifEAo6Q?e=8J5Wla)

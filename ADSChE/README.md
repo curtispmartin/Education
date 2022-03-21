@@ -15,11 +15,6 @@ Here, we provide a broad overview of the content covered in data science, as wel
 We also talk about setting up your data science environment. In this course, we'll be using:
 - [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
 
-In preparation for next lecture, go ahead & setup your GitHub account & install Git Bash if needed: 
-- [GitHub](https://github.com/)
-- [Git Bash](https://gitforwindows.org/) for those on Windows
-- ...for those on Mac?
-
 -----
 
 
