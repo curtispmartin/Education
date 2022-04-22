@@ -36,6 +36,6 @@ We will introduce the following concepts in reproducibility in this lession:
 This lesson will be an extensive introduction to programming in Python. 
 While not exhaustive, this lesson will likely require a significant percentage of course time. 
 However, we recommend making Python a pre-requisite for the course, & simply reviewing this material.
-- *Lecture 1: An Introduction to Programming*
-- *Lecture 2: Fundamental Syntax in Python*
-- *Lecture 3: ...*
+- **Lecture 1: An Introduction to Programming**
+- **Lecture 2: Fundamental Syntax in Python**
+- **Lecture 3: ...**
