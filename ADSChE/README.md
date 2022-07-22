@@ -15,7 +15,7 @@ We also talk about setting up your data science environment. In this course, we'
 
 -----
 
-## [`+Lesson: Data Science in Python`](https://github.com/curtispmartin/Education/tree/master/ADSChE/Python)
+## [`+Lesson: Programming with Python`](https://github.com/curtispmartin/Education/tree/master/ADSChE/Python)
 This lesson will be an extensive introduction to programming in Python. 
 While not exhaustive, this lesson will likely require a significant percentage of course time. 
 However, we recommend making Python a pre-requisite for the course, & simply reviewing this material.
