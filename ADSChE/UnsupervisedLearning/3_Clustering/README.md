@@ -1,4 +1,4 @@
-# [Lecture: Clustering](https://1drv.ms/b/s!AgxFCJc78BuchY9Tl2kszwW-q4SRDw?e=8YygNo)
+# [Lecture: Clustering](https://1drv.ms/p/s!AgxFCJc78BuchZlnY7PZ1VnYH6nRAg?e=nLXuKe)
 Here, we wrap up our module on unsupervised machine learning by discussing clustering algorithms. 
 We go through the goals of intentions of clustering. 
 We work through multiple clustering algorithms, grouped (tee hee) by type. 

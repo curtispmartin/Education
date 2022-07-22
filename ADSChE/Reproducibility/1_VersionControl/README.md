@@ -1,4 +1,3 @@
-# [Lecture: Version Control](https://1drv.ms/b/s!AgxFCJc78BuchY9RQM84JQyifEAo6Q?e=8J5Wla)
 # [Lecture: Version Control](https://1drv.ms/p/s!AgxFCJc78BuchZlkukSdHpJUAFJoLA?e=wheby4)
 Here, we introduce version control as a best practice when writing & developing your code. 
 We talk about standard problems in data science when it comes to reproducibility & where version control fits in. 
