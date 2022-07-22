@@ -16,5 +16,5 @@ This lecture requires you to set up a GitHub account:
 
 ## Contents
 - The lecture [can be accessed & downloaded here](https://1drv.ms/b/s!AgxFCJc78BuchY9RQM84JQyifEAo6Q?e=8J5Wla)
-- An [in-class activity](https://github.com/curtispmartin/Education/blob/master/ADSChE/Body/Reproducibility/VersionControl/Assignments/inclass.ipynb)
+- An [in-class activity](https://github.com/curtispmartin/Education/blob/master/ADSChE/Reproducibility/VersionControl/Assignments/inclass.ipynb)
 - A homework assignment
